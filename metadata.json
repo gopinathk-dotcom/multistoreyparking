@@ -1,0 +1,8 @@
+{
+  "name": "Remix Multi-Storey Parking Management System",
+  "description": "Multi-Storey Parking Management System with real-time multi-floor slot allocation, dynamic database persistence, and smart parking operations for TCE Madurai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
